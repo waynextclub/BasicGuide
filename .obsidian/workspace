@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "230812644a44f3b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "4086c1fadead8c37",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "贡献者指南.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f639166812b4d226",
+    "type": "split",
+    "children": [
+      {
+        "id": "c414d418924df18b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a95ceb26b6588ddd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f0610094afe30b40",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f002f3413f883386",
+    "type": "split",
+    "children": [
+      {
+        "id": "30c56965f6f8c394",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9324fd23b57b183",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "贡献者指南.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4086c1fadead8c37",
+  "lastOpenFiles": [
+    "README.md",
+    "waynext核心思路.md",
+    "贡献者指南.md"
+  ]
+}
